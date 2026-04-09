@@ -1,0 +1,5 @@
+{
+  "name": "Aura Chat",
+  "description": "A real-time chat and calling application with Firebase.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
